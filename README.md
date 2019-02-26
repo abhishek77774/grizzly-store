@@ -48,7 +48,7 @@ Vendor-All Products:
 
 
 Invalid UserId:
-![Invalid UserId](https://github.com/abhishek77774/grizzly-store/blob/master/GrizzlyStore/WebContent/Web%20ScreenShots/11%20Login%20With%20Invalid%20UserID.png)
+![Invalid UserId](https://github.com/abhishek77774/grizzly-store/blob/master/GrizzlyStore/WebContent/Web%20ScreenShots/12%20Invalid%20Login%20ID.png)
 
 
 After 3 Failed Logins:
